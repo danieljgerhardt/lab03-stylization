@@ -1,10 +1,10 @@
 Results:
 
-![Result Image 1](Screenshot 2025-09-29 184129.png)
+![Result Image 1](puzzle1.png)
 
-![Result Image 2](Screenshot 2025-09-29 184140.png)
+![Result Image 2](puzzle2.png)
 
-![Result Image 3](Screenshot 2025-09-29 184152.png)
+![Result Image 3](puzzle3.png)
 
 # Lab 05 - Stylization!
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
